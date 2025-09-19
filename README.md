@@ -2,13 +2,14 @@
 
 ---
 <div style="text-align: center; line-height: 0;">
-  <a href="https://beacons.ai/LuizHenri1" style="display: inline-block; margin: 0 10px;">
+  <a href="https://beacons.ai/LuizHenri1" style="display: inline-block; vertical-align: middle; margin: 0 10px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHenri1&show_icons=true&theme=merko"/>
   </a>
-  <a href="https://beacons.ai/LuizHenri1" style="display: inline-block; margin: 0 10px;">
+  <a href="https://beacons.ai/LuizHenri1" style="display: inline-block; vertical-align: middle; margin: 0 10px;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenri1&layout=compact&theme=merko"/>
   </a>
 </div>
+
 
 
 
