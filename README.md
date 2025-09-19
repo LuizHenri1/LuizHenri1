@@ -1,12 +1,15 @@
 # Olá! Eu sou Luiz Henrique 👋
 
 ---
-<div>
+<div style="text-align: center;">
   <a href="https://beacons.ai/LuizHenri1">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHenri1&show_icons=true&theme=merko"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenri1&layout=compact&theme=merko"/>      
+  </a>
+  <a href="https://beacons.ai/LuizHenri1">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizHenri1&layout=compact&theme=merko"/>  
   </a>
 </div>
+
 
 <br>
 
